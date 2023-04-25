@@ -31,5 +31,9 @@ Type “pip install scikit-learn” and click enter.
 Type “pip install Flask” and click enter.
 If you are using Pycharm IDE, you can install the packages through the command prompt and follow the same syntax as above.
 
+Demo Video to Run The Application:
+
+https://youtu.be/9eTjHas1BsM
+
 
  
